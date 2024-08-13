@@ -1,0 +1,27 @@
+Geographical Features: Focus on the state's location, climate, rivers, mountains, and other notable geographical features.
+Demographics: Gather data on population, gender ratios, ethnic composition, languages spoken, and significant demographic trends.
+Historical System: Include information about historical monarchies, famous emperors, freedom fighters, poets, and other significant figures.
+Economy: Cover the state's economic system, major industries, natural resources, and economic indicators such as GDP and employment rates, Import and Export
+Culture and Society: Highlight cultural diversity, traditions, customs, art, music, literature, cuisine, social norms, and values.
+Great Personalities: Mention significant historical events, periods, milestones, and notable individuals who shaped the state's history.
+Infrastructure, Tourism, Attractions and Festivals:
+Education and Healthcare: Provide information on the education system, literacy rates, availability of healthcare services, and advancements or challenges.
+
+Challenges and Future Outlook:
+
+
+Discuss ongoing challenges, economic disparities, political conflicts, environmental concerns, and future initiatives.
+Example: "What are the major environmental challenges faced by the Sundarbans in West Bengal, and what measures are being taken to preserve this UNESCO World Heritage site?"
+Formulate Questions:
+Use a mix of multiple-choice questions (MCQs), open-ended questions, and descriptive questions to evaluate different aspects.
+Ensure questions are clear, concise, and culturally relevant.
+Incorporate real-life scenarios and examples to test practical understanding.
+Evaluation Criteria:
+Assess the accuracy of responses.
+Evaluate the depth of cultural understanding.
+Consider the ability to handle variations in language and dialect.
+
+prompt in English vs prompt in language
+find out implicit biases
+user personas
+I think these ideas are interesting. A good idea would be to first define the axis of bias — skin color, state of residence, language spoken, religion, caste, etc. more important in the Indian context. Check work of partha talukkdar https://aclanthology.org/2022.aacl-main.55.pdf You can expand on these. And then maybe you could have a first phase of writing biased templates and then subsequently sentences for each and possibly each language. Okay,gtg now. Will get in touch later.
